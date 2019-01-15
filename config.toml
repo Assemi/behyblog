@@ -17,8 +17,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Publications can have a Params.kind, such as "book".
 # Both parameters are mapped to an icon in partials/pub-icon.html.
 
-bio_full = "Behrang Assemi's Bio"
-bio_twitter = "pierrede_fermat"
+bio_full = "Data scientist with 16 years of experience and PhD in Information Systems from UNSW Sydney. Data science achievements include creating explanatory and predictive time series, partial least squares, nested logit and advanced regression models for road safety, people’s health and travel behaviour, as well as customers’ choice and providers’ business outcomes on crowdsourcing marketplaces. The model outcomes have been published in more than 10 top-ranked journals and presented to industry leaders and academics in Australia and overseas. Highly skilled in statistical analysis with R, programming with C++/C#/Java and designing/querying SQL databases. Prior to data science career, worked as CIO, CEO and IT consultant in a variety of industries including IT, electronics and food industries. Founded and managed three successful IT start-ups, established industry partnerships and delivered a series of IT/business intelligence products/services to a wide range of customers."
+bio_twitter = "BehrangAssemi"
 
 # Title of posts section on main page.
 #posts_title = "Posts"
