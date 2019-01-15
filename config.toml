@@ -1,4 +1,4 @@
-baseurl = "http://github.com/lambdafu/hugo-finite"
+baseurl = "https://behrang.netlify.com/"
 title = "Data Science for Business and Engineering"
 author = "Behrang Assemi"
 copyright = "Copyright (c) 2018 Behrang Assemi"
