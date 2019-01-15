@@ -1,0 +1,95 @@
+baseurl = "http://github.com/lambdafu/hugo-finite"
+title = "Data Science for Business and Engineering"
+author = "Behrang Assemi"
+copyright = "Copyright (c) 2018 Behrang Assemi"
+canonifyurls = true
+paginate = 3
+theme = "hugo-finite"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+
+# Date format (refer to Go's date format: http://flippinggodateformat.com)
+# Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+#date_format = "2 January 2006"
+
+# Publications can have a Params.publication for citation references.
+# Publications can have a Params.kind, such as "book".
+# Both parameters are mapped to an icon in partials/pub-icon.html.
+
+bio_full = "Behrang Assemi's Bio"
+bio_twitter = "pierrede_fermat"
+
+# Title of posts section on main page.
+#posts_title = "Posts"
+
+# Number of posts to show on main page.
+#posts_count = 2
+
+# Title of publications section on main page.
+#pubs_title = "Publications"
+
+# Number of publications to show on main page.
+#pubs_count = 5
+
+[[params.education]]
+  course = "PhD in Information Systems"
+  institution = "University of New South Wales Australia"
+  year = 2019
+
+[[params.education]]
+  course = "Master's in Computer Science"
+  institution = "Sharif University of Technology"
+  year = 2006
+
+[[params.education]]
+  course = "Bachelor's in Software Engineering"
+  institution = "Amirkabir University of Technology"
+  year = 2003
+  
+[[params.social]]
+  icon = "envelope"
+  icon_pack = "fa"
+  link = "mailto:behrang.assemi@gmail.com"
+  text = "behrang.assemi@gmail.com"
+    
+[[params.social]]
+  icon = "twitter"
+  icon_pack = "fa"
+  link = "https://twitter.com/BehrangAssemi"
+  text = "@BehrangAssemi"
+  site = "Twitter"
+
+[[params.social]]
+  icon = "github"
+  icon_pack = "fa"
+  link = "//https://github.com/Assemi"
+  text = "Behrang Assemi"
+  site = "GitHub"
+
+[[params.social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Behrang_Assemi"
+  text = "ResearchGate"
+
+
+
+# Navigation Links
+# The weight parameter defines the order that the links will appear in.
+
+[[menu.main]]
+  name = "Publications"
+  url = "/publication/"
+  weight = 2
+
+[[menu.main]]
+  name = "Blog"
+  url = "/post/"
+  weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  url = "/#contact"
+  weight = 4
+
