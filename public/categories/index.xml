@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Data Science for Business and Engineering</title>
-    <link>/lambdafu/hugo-finite/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Data Science for Business and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright (c) 2018 Behrang Assemi</copyright>
     
-	<atom:link href="/lambdafu/hugo-finite/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>/lambdafu/hugo-finite/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Data Science</title>
+      <link>/categories/data-science/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/lambdafu/hugo-finite/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>/lambdafu/hugo-finite/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/lambdafu/hugo-finite/categories/golang/</guid>
+      <guid>/categories/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/lambdafu/hugo-finite/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <link>/categories/r/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/lambdafu/hugo-finite/categories/r/</guid>
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story</title>
+      <link>/categories/story/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/story/</guid>
       <description></description>
     </item>
     

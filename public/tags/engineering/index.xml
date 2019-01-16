@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Data Science for Business and Engineering</title>
-    <link>/categories/r/</link>
-    <description>Recent content in R on Data Science for Business and Engineering</description>
+    <title>Engineering on Data Science for Business and Engineering</title>
+    <link>/tags/engineering/</link>
+    <description>Recent content in Engineering on Data Science for Business and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright (c) 2018 Behrang Assemi</copyright>
     <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
