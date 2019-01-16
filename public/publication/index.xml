@@ -2,32 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Data Science for Business and Engineering</title>
-    <link>/lambdafu/hugo-finite/publication/</link>
+    <link>/publication/</link>
     <description>Recent content in Publications on Data Science for Business and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright (c) 2018 Behrang Assemi</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/lambdafu/hugo-finite/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/lambdafu/hugo-finite/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Participants&#39; perceptions of smartphone travel surveys</title>
+      <link>/publication/part-f-2018-user-perceptions/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/lambdafu/hugo-finite/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/part-f-2018-user-perceptions/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Margin Note in Arithmetica</title>
-      <link>/lambdafu/hugo-finite/publication/fermats-last-theorem/</link>
+      <title>Incidental Walking among Young Adults: Where and Why?</title>
+      <link>/publication/wip-2019-ipa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/lambdafu/hugo-finite/publication/fermats-last-theorem/</guid>
-      <description>I have discovered a truly marvellous proof of this, which this margin is too narrow to contain:
-There are no positive integers such that $x^n + y^n = z^n$ for $ n&amp;gt;2 $.  </description>
+      <guid>/publication/wip-2019-ipa/</guid>
+      <description></description>
     </item>
     
   </channel>
