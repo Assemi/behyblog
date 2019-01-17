@@ -28,26 +28,26 @@
       {{ partial "contact" . }}
     </div>
     <div class="column small-12 medium-4">
-      <h1>Subscribe</h1>
+      <h1>Links</h1>
+      <p><a href="https://www.r-bloggers.com/">R-bloggers</a></p>
+	  <h1>Subscribe</h1>
       <p>To receive updates, you can subscribe to
 	the <a href="/index.xml"><i class="fa fa-rss-square"></i>&nbsp;RSS feed</a> of all
 	updates to the site in an RSS feed reader.
       </p>
       <h1>Search</h1>
-      <a id="searchsite">
-	<form method="get" action="https://duckduckgo.com/">
-	  <label for="search-field" class="show-for-sr">Search with DuckDuckGo</label>
-	  <input type="search" name="q" maxlength="255" placeholder="Search with DuckDuckGo" id="search-field">
-	  <input type="hidden" name="sites" value="{{ .Site.BaseURL }}"/>
-	  <input type="hidden" name="k7" value="#faf8f8"/>
-	  <input type="hidden" name="kj" value="#b33"/>
-	  <input type="hidden" name="ky" value="#fafafa"/>
-	  <input type="hidden" name="kx" value="b"/>
-	  <input type="hidden" name="ko" value="-1"/>
-	  <input type="hidden" name="k1" value="-1"/>
-	  <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
-	</form>
-      </a>
+      <script>
+		  (function() {
+			var cx = '010898622147674086346:wupnhng4tmw';
+			var gcse = document.createElement('script');
+			gcse.type = 'text/javascript';
+			gcse.async = true;
+			gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(gcse, s);
+		  })();
+	</script>
+	<gcse:search></gcse:search>
     </div>
   </div>
 </footer>
