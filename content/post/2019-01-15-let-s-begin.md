@@ -15,7 +15,7 @@ tags:
 
 The idea of starting a blog to reflect on my experience as a data scientist was formed during [useR! 2018](https://user2018.r-project.org/) conference. Until then, I did not know that I belong to such a huge community of R users and developers who professionally and openly contribute to enhancing R features and functionalities as well as improving other users' experience. I was especially impressed by [Steph de Silva's keynote talk](https://www.youtube.com/watch?v=27FxbDtCFoc).
 
-<img src="../static/img/R_logo.png" width="200">
+<img src="/img/R_logo.png" width="200">
 
 Given my extensive use of R and reliance on other users and professionals' experience shared through blogs, online books, social media and StackExchange, I decided to contribute to this amazing community by sharing my personal experience with R, specifically in the context of business analytics and engineering, through a personal blog.
 
