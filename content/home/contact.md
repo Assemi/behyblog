@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 50
 
 title: Contact
 subtitle:
@@ -20,10 +20,10 @@ content:
   form:
     provider: formspree
     formspree:
-      id: test
+      id: mjvjvjdy
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
   
 design:
   columns: '2'

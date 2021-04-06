@@ -8,10 +8,11 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
-featured: true
+- Douglas Baker
+- Alexander Paz
+date: "2020-07-28T00:00:00Z"
+doi: "10.1016/j.tranpol.2020.07.020"
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""

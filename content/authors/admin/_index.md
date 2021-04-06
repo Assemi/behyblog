@@ -1,27 +1,25 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests include ...
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Information Systems (Business)
+    institution: University of New South Wales (UNSW) Sydney
+    year: 2019
+  - course: MSc in Computer Science
+    institution: Sharif University of Technology
+    year: 2006
+  - course: BEng in Software Engineering
+    institution: Amirkabir University of Technology (Tehran Polytechnic)
+    year: 2003
+email: "behrang(dot)assemi(at)gmail(dot)com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Information Theory, Transport Engineering, Time Series Forecasting
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Queensland University of Technology (QUT)
+  url: 
+role: Data Scientist and Research Fellow
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +29,20 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/BehrangAssemi
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.au/citations?user=jxbzEvIAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Assemi
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/behrang-assemi-33b3bb10/
 superuser: true
-title: Nelson Bighetti
+title: Behrang Assemi
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Behrang Assemi is a Data Scientist and iMOVE Research Fellow at Queensland University of Technology (QUT).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/DS CV _ Behrang Assemi _ 032021 _ S.pdf" "newtab" >}}CV{{< /staticref >}}.

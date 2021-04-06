@@ -4,9 +4,9 @@ theme: "starter-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Weekly Dose of DS # Website name
 baseurl: 'https://behrang.netlify.app/' # Website URL
-copyright: '© {2021} Behrang Assemi' # Footer text, e.g. '© {year} Me'
+copyright: '2021 © Behrang Assemi' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
