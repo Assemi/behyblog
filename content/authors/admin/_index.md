@@ -1,6 +1,5 @@
 ---
 bio: My research interests include ...
-  matter.
 education:
   courses:
   - course: PhD in Information Systems (Business)
