@@ -1,7 +1,7 @@
 ---
 title: Data Pipelines - Apache Airflow Part 1
 author: Behrang Assemi
-date: '2022-07-01'
+date: '2022-06-30'
 slug: data-pipelines-apache-airflow-part-1
 categories:
   - Data Science
