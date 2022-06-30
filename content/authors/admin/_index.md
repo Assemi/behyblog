@@ -17,9 +17,9 @@ highlight_name: false
 interests:
 - Information Theory, Transport Engineering, Time Series Forecasting
 organizations:
-- name: Queensland University of Technology (QUT)
+- name: Deloitte Australia
   url: 
-role: Data Scientist and Research Fellow
+role: Specialist Manager
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,6 +43,6 @@ superuser: true
 title: Behrang Assemi
 ---
 
-Behrang Assemi is a Data Scientist and iMOVE Research Fellow at Queensland University of Technology (QUT).
+Behrang Assemi is a Lead Data Scientist and Specialist Manager.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/DS CV _ Behrang Assemi _ 032021 _ S.pdf" "newtab" >}}CV{{< /staticref >}}.
